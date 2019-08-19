@@ -4,6 +4,8 @@
 
 Welcome to the git repository for the FASE Machine Learning bootcamp! We will be using this repository for all of the lab sessions. Some of the labs are still being finalized, so please make sure to re-visit this page at the start of each day.
 
+If you're already comfortable cloning a git repository and using Jupyter notebooks on your machine, please carry on! Otherwise...
+
 To use the notebooks in this repository, at the start of each day simply:
 * In the top right click "Clone or download" and choose the "Download ZIP" option
 * Navigate to where the ZIP file downloaded, and extract it to the location you want to work from
