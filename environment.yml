@@ -1,0 +1,8 @@
+name: Lab1
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - numpy-base
+  - scikit-learn
+  - scipy
