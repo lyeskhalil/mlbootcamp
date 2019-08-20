@@ -11,5 +11,6 @@ dependencies:
   - python=3.5
   - scikit-learn
   - scipy
+  - graphviz
 prefix: /home/alex/anaconda3/envs/Lab2
 
