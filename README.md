@@ -2,7 +2,7 @@
 #### August 19-23, 2019
 #### Teaching team: Elias Khalil, Kyle E. C. Booth, and Alex Olson 
 
-Access the notebooks in the cloud here: https://mybinder.org/v2/gh/lyeskhalil/mlbootcamp/62bfb1b
+Access the notebooks in the cloud here: https://mybinder.org/v2/gh/lyeskhalil/mlbootcamp/d53b3fc
 
 Welcome to the git repository for the FASE Machine Learning bootcamp! We will be using this repository for all of the lab sessions. Some of the labs are still being finalized, so please make sure to re-visit this page at the start of each day.
 
