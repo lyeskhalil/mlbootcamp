@@ -6,3 +6,5 @@ dependencies:
   - numpy-base
   - scikit-learn
   - scipy
+  - pytorch-cpu
+  - pytorch
