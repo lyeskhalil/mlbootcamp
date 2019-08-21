@@ -4,7 +4,7 @@
 
 lab-3-2: please go to this page: https://playground.tensorflow.org/
 
-Access the notebooks in the cloud here: https://mybinder.org/v2/gh/lyeskhalil/mlbootcamp/c180f39
+Access the notebooks in the cloud here: https://mybinder.org/v2/gh/lyeskhalil/mlbootcamp/bfca0b6
 
 Welcome to the git repository for the FASE Machine Learning bootcamp! We will be using this repository for all of the lab sessions. Some of the labs are still being finalized, so please make sure to re-visit this page at the start of each day.
 
