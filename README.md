@@ -1,12 +1,14 @@
 # FASE mlbootcamp
 #### August 19-23, 2019
-#### Teaching team: Elias Khalil, Kyle E. C. Booth, and Alex Olson 
+#### Teaching team: [Elias Khalil](https://www.ekhalil.com/), Kyle E. C. Booth, and Alex Olson 
 
-lab-3-2: please go to this page: https://playground.tensorflow.org/
+Welcome to the git repository for the FASE Machine Learning bootcamp! We will be using this repository for all of the lab sessions as well as the course slides.
 
-Access the notebooks in the cloud here: https://mybinder.org/v2/gh/lyeskhalil/mlbootcamp/bfca0b6
+Many of the slides are based on openly available course material from multiple universities, and are acknowledged in each slide deck. We appreciate their work! 
 
-Welcome to the git repository for the FASE Machine Learning bootcamp! We will be using this repository for all of the lab sessions. Some of the labs are still being finalized, so please make sure to re-visit this page at the start of each day.
+The following are instructions for the programming labs.
+
+First, please follow the instructions in [this link](https://gist.github.com/alexwolson/9cfbb9e5312808cce9d730eb577e18f3) to setup the software needed for the programming component.
 
 If you're already comfortable cloning a git repository and using Jupyter notebooks on your machine, please carry on! Otherwise...
 
