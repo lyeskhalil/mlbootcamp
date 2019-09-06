@@ -1,6 +1,6 @@
 # FASE mlbootcamp
 #### August 19-23, 2019
-#### Teaching team: [Elias Khalil](https://www.ekhalil.com/), Kyle E. C. Booth, and Alex Olson 
+#### Teaching team: [Elias Khalil](https://www.ekhalil.com/) (khalil@mie.utoronto.ca), Kyle E. C. Booth, and Alex Olson 
 
 Welcome to the git repository for the FASE Machine Learning bootcamp! We will be using this repository for all of the lab sessions as well as the course slides.
 
